@@ -7,3 +7,5 @@
     -pseudocode.txt
     -README.md
     
+Dikerjakan oleh :
+- `Alditya Dwinata - FE2536507`
