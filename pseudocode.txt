@@ -8,4 +8,5 @@ IF "kode" SAME WITH "1"
         STORE "harga" WITH "7000"
 	    STORE "total" WITH "harga" * "jumlah"
 	    DISPLAY "total"
-    
+        ELSE
+            STORE "kode" AS INTEGER WITH VALUE
